@@ -1,4 +1,6 @@
-# hello-world
+# Hello World
 Hello world repository for Git Tutorial.
 
-This repositorty is built step by step from W3Schools.com
+This repository is built step by step from W3Schools.com
+
+It now includes steps for GitHUb
